@@ -7,7 +7,7 @@ You have to make a Code Review with a developer, which developed a simple Applic
 ### use cases
 A Customer 
 - should be able to rent several movies
-- should be able to get print a bill
+- should be able to print a bill
 - should be able to earn frequent renter points
 
 ### classes
