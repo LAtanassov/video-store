@@ -2,7 +2,9 @@
 Martin Fowler's Video Store Example
 
 ### scenario
-You have to make a Code Review with a developer, which developed a simple Application for a Video Store.
+Main Goal:  
+The current implementation only support plain text output (see example in App class).  
+Please extend the current functionality by additional format support for HTML.
 
 ### use cases
 A Customer 
